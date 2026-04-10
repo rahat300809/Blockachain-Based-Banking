@@ -1,0 +1,12 @@
+--- Network Initialization ---
+Blockchain loaded.
+
+===== WELCOME TO BLOCKCHAIN NETWORK =====
+1. Create New Wallet
+2. Create Agent Account
+3. Login to Existing Wallet
+4. Exit
+5. Show All Accounts
+Choice: 
+========== ACCOUNT CREATION ==========
+Step 1: Set a Transaction Pin : Step 2: Filename for this Wallet backup: >>> Auto Generated Secret Key: k^&3Ufp6BNaaP3ZiSeEw8Oik79CmikUB

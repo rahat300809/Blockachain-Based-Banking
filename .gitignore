@@ -1,0 +1,23 @@
+# Compiled binaries
+*.exe
+*.dll
+*.obj
+*.o
+
+# OpenSSL package
+*.zst
+openssl_extracted/
+
+# Data files (runtime-generated)
+blockchain.dat
+audit_log.txt
+recovery_map.txt
+
+# VS Code settings
+.vscode/
+
+# Temp/build files
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.exe
+error.txt
+test_run_final.txt
